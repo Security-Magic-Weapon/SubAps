@@ -6,7 +6,7 @@ Sub新一代子域嗅探工具｜全网爬虫获取子域｜数据库作为字�
 目前程序正在优化，和拓展基础数据库，程序会在国庆结束前发布在Github，后续更新都在知识星球。
 
 ## 视频介绍
-#### [bilibili视频地址](https://www.bilibili.com/video/BV1HG4y1W75s)
+#### [bilibili视频地址](https://www.bilibili.com/video/BV1tG4y1W7E1/)
 
 ## 程序流程图
 
