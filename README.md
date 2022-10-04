@@ -10,7 +10,7 @@ Sub新一代子域嗅探工具｜全网爬虫获取子域｜数据库作为字�
 
 ## 程序流程图
 
-![image](https://user-images.githubusercontent.com/52586866/193862918-ad770c16-d71e-4e5d-98f8-5f0dbddeb013.png)
+![image](https://tva1.sinaimg.cn/large/006y8mN6gy1h6towrjjwgj31hw0u0gp0.jpg)
 
 ## 程序介绍
 
