@@ -1,7 +1,7 @@
 # SubAps
 Sub新一代子域嗅探工具｜全网爬虫获取子域｜数据库作为字典进行计次 提高准确率和效率
 
-**问题反馈：Issues(https://github.com/Security-Magic-Weapon/SubAps/issues)**
+**问题反馈：[Issues](https://github.com/Security-Magic-Weapon/SubAps/issues)**
 
 ----
 
@@ -31,7 +31,7 @@ Sub新一代子域嗅探工具｜全网爬虫获取子域｜数据库作为字�
 * 目前我认为较大的缺点就是流量的问题，流量大可能造成被Ban，所以需要对接一下代理池。
 * 其次就是判断站点是否可以访问的条件，目前只是根据响应码来进行判断的，后续可能会加入一些其他的判断条件，比如响应内容，响应头等。
 * 程序主要是作为拓展攻击面使用的，那么单纯的子域名获取肯定是远远不够的，所以后续会对已探测到的字域名进行端口扫描+CDN识别+指纹探测
-* 目前程序获取子域名的渠道较为单一，后续会考虑加入一些API接口进行获取资产，国内外的网络测绘平台都会考虑，如果大家有较好的平台推荐可以提交Issues(https://github.com/Security-Magic-Weapon/SubAps/issues)，如果能够提供会员账号用于测试可以联系微信：Backxyh
+* 目前程序获取子域名的渠道较为单一，后续会考虑加入一些API接口进行获取资产，国内外的网络测绘平台都会考虑，如果大家有较好的平台推荐可以提交[Issues](https://github.com/Security-Magic-Weapon/SubAps/issues)，如果能够提供会员账号用于测试可以联系微信：Backxyh
 
 ## 更新计划
 
@@ -41,7 +41,7 @@ Sub新一代子域嗅探工具｜全网爬虫获取子域｜数据库作为字�
 - [ ] 对站点进行指纹识别，方便红队用户快速定位目标
 - [ ] 子域站点存储数据库方便其他程序调用，例如漏洞扫描
 
-**暂定就是这些，如果有其他更好的思路可以反馈至 Issues(https://github.com/Security-Magic-Weapon/SubAps/issues)**
+**暂定就是这些，如果有其他更好的思路可以反馈至 [Issues](https://github.com/Security-Magic-Weapon/SubAps/issues)**
 
 ----
 
